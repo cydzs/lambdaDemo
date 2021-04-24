@@ -8,6 +8,8 @@ public class Test2 {
             a+=i;
             System.out.println(a);
         }
+        System.out.println("aaa");
+        System.out.println("bbb");
 
     }
 }
